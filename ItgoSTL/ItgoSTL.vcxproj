@@ -165,7 +165,13 @@
     <ClCompile Include="ex07.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="ex08.cpp" />
+    <ClCompile Include="ex09.cpp" />
+    <ClCompile Include="ex10.cpp" />
+    <ClCompile Include="ex11.cpp" />
+    <ClCompile Include="ex12.cpp" />
+    <ClCompile Include="ex13.cpp" />
+    <ClCompile Include="ex14.cpp" />
+    <ClCompile Include="ex15.cpp" />
     <ClCompile Include="ItgoSTL.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
